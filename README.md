@@ -9,5 +9,5 @@
 - 💞️ I’m looking to collaborate on Salesforce Partner, Salesforce Consultant besides Salesforce admin and developer.
 
 - 📫 You can reach me from  >>>>  https://www.linkedin.com/in/yaydemirpro/
-- 
+
 
