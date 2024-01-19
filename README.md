@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf.
 
-- 👀 I’m interested in Salesforce as an administrator, app builder and developer. 
+- 👀 I bring expertise to the table in Salesforce as an administrator, app builder, and developer.
 
 - 🏅 Certificates : Salesforce Administrator, Salesforce Platform Developer 1, Salesforce App Builder, Salesforce Advanced Administrator, Salesforce Sales Consultant.
 
